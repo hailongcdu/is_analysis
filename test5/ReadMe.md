@@ -113,11 +113,6 @@ tb_collection的外键</td>
 <td> user_role</td> <td>int</td> <td> 1</td> <td>0</td> <td> 否</td> <td> 否</td><td> 角色,(默认为1,1：表示普通用户，
 2：表示管理员用户)</td>
 </tr>
-
-<tr>
-<td> user_id_num</td> <td>varchar</td> <td> 22</td> <td>0 </td> <td> 否</td> <td> 否</td><td> 借阅证号</td>
-</tr>
-
 <tr>
 <td> user_snum</td> <td>int</td> <td> 2</td> <td>0 </td> <td> 否</td> <td> 否</td><td> 可借数量</td>
 </tr>

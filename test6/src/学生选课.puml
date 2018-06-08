@@ -1,0 +1,5 @@
+@startuml
+actor student
+student ->teacher_course :获取教师选课信息
+teacher_course ->  student_course :选择课程与教导的教师
+@enduml

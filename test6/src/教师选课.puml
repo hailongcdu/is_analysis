@@ -1,0 +1,6 @@
+@startuml
+actor teacher
+teacher -> terms :选择教授学期
+terms ->course :选择课程
+course -> teacher_course :记录选课信息
+@enduml

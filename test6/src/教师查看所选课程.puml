@@ -1,0 +1,5 @@
+@startuml
+actor teacher
+teacher -> teacher_course :获取教授课程列表
+teacher_course --> teacher :课程信息列表
+@enduml

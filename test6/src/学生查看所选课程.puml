@@ -1,0 +1,6 @@
+@startuml
+title 基于GitHub的实验管理平台--查看成绩用例的顺序图
+actor students
+students -> student_course:查看选择课程信息
+student_course --> students:所选择课程列表
+@enduml

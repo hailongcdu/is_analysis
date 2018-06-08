@@ -1,0 +1,5 @@
+@startuml
+actor users
+users <-- userInfo :获取用户信息
+users -> userInfo :提交修改后的用户信息
+@enduml

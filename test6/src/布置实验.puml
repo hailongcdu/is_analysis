@@ -1,0 +1,5 @@
+@startuml
+actor teacher
+teacher -> teacher_course :选课课程
+teacher_course ->course_test :布置课程实验
+@enduml

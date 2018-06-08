@@ -1,0 +1,9 @@
+@startuml
+title 基于GitHub的实验管理平台--学生列表用例的顺序图
+actor users
+alt users必须是老师，返回课程学生列表
+    users ->teacher_course:选择要查看的课程学生列表
+    teacher_course ->student_course:获取课程学生列表
+    student_course -> users :学生信息
+end
+@enduml

@@ -36,7 +36,7 @@
 ## 6. 用例及界面详细设计
 - ### [“教师选课”用例](./用例/教师选课.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/教师选课.html)
 - ### [“布置实验”用例](./用例/布置实验.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/布置实验.html)
-- ### [“教师查看所选课程”用例](./用例/教师查看所选课程.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/教师查看所选课程.html)
+- ### [“教师查看所选课程”用例](./用例/教师查看所选课程.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/教师查看所教课程.html)
 - ### [“评定成绩”用例](./用例/评定成绩.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/评定成绩.html)
 - ### [“学生选课”用例](./用例/学生选课.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/学生选课.html)
 - ### [“学生查看课程成绩”用例](./用例/学生查看课程成绩.md),[界面](https://hailongcdu.github.io/is_analysis/test6/ui/学生查看课程成绩.html)
